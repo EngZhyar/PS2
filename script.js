@@ -5,7 +5,6 @@ let currentPage = 1;
 const imagePaths = [
   "PS2 COVER/007 agent under fire ps2 cover image.jpg",
   "PS2 COVER/007 from russia with love ps2 cover image.jpg",
-  "PS2 COVER/007 night fire ps2 cover image.jpg",
   "PS2 COVER/007 quantum of solace ps2 cover image.jpg",
   "PS2 COVER/24 the game ps2 cover image.jpg",
   "PS2 COVER/25 to life ps2 cover image.png",
@@ -297,7 +296,9 @@ const imagePaths = [
   "PS2 COVER/Xena.jpg",
   "PS2 COVER/xmen official game ps2 cover image.jpg",
   "PS2 COVER/yakuza 2 ps2 cover image.jpeg",
-  "PS2 COVER/yakuza ps2 cover image.jpg"  ,"PS2 COVER/007 everything or nothing ps2 cover image.jpg"
+  "PS2 COVER/yakuza ps2 cover image.jpg"  ,
+   "PS2 COVER/007 night fire ps2 cover image.jpg",
+"PS2 COVER/007 everything or nothing ps2 cover image.jpg"
 
 ];
 // Function to display images for the current page
