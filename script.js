@@ -174,7 +174,6 @@ const imagePaths = [
   "PS2 COVER/predetor concrete jungle ps2 cover image.jpg",
   "PS2 COVER/Prince of persia the sands of time.jpg",
   "PS2 COVER/Prince of persia the two thrones.jpg",
-  "PS2 COVER/Prince of persia warrior within.jpg",
   "PS2 COVER/Pro evolution soccer 2.jpg",
   "PS2 COVER/Pro evolution soccer 3.jpg",
   "PS2 COVER/Pro evolution soccer 4.png",
