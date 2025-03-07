@@ -64,8 +64,9 @@ button {
     background-color: #4c57af;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
+    
 }
 
 button:hover {
@@ -74,5 +75,5 @@ button:hover {
 
 #page-number {
     font-size: 18px;
-    color: white;
+    color: black;
 }
