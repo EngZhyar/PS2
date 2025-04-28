@@ -161,8 +161,6 @@ const imagePaths = [
   "PS2 COVER/pes 2012 jalal.png",
   "PS2 COVER/pes 2012.jpg",
   "PS2 COVER/Pes 2013.jpg",
-  "PS2 COVER/pes 2015 jalal.png",
-  "PS2 COVER/pes 2018 jalal.png",
   "PS2 COVER/pes 2025.png",
   "PS2 COVER/Pirates of the caribbean at worlds end.jpg",
   "PS2 COVER/pk out of the shadow.jpeg",
