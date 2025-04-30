@@ -111,7 +111,7 @@ const imagePaths = [
   "PS2 COVER/ice age 2 ps2 cover image.jpg",
   "PS2 COVER/Indiana jones and the staff of kings.jpg",
   "PS2 COVER/Iron man.jpg",
-  "PS2 COVER/jala pareshan.jpeg",
+
   "PS2 COVER/jetli ps2 cover image.jpg",
   "PS2 COVER/justice league heroes  ps2 cover image.jpg",
   "PS2 COVER/killzone ps2 cover image.jpeg",
