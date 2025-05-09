@@ -195,7 +195,6 @@ const imagePaths = [
   "PS2 COVER/Robots.jpg",
   "PS2 COVER/Samurai jack ris of aku.jpg",
   "PS2 COVER/Samurai_Western.jpg",
-  "PS2 COVER/Scarface the world is yours.jpg",
   "PS2 COVER/Secret service.jpg",
   "PS2 COVER/Serious sam next encounter.jpg",
   "PS2 COVER/Shadow of Colossus.jpg",
