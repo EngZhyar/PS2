@@ -191,7 +191,6 @@ const imagePaths = [
   "PS2 COVER/Resident evil outbreak file 2.jpg",
   "PS2 COVER/Resident evil outbreak.jpg",
   "PS2 COVER/return to castle.jpg",
-  "PS2 COVER/roadkill ps2 cover image.jpeg",
   "PS2 COVER/Robots.jpg",
   "PS2 COVER/Samurai jack ris of aku.jpg",
   "PS2 COVER/Samurai_Western.jpg",
