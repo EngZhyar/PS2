@@ -277,7 +277,6 @@ const imagePaths = [
   "PS2 COVER/wallace and gromit ps2 cover image.jpg",
   "PS2 COVER/winning eleven 49.jpg",
   "PS2 COVER/Winning eleven pro evolution soccer 2007.jpg",
-  "PS2 COVER/wwe smack down here comes the pain.jpg",
   "PS2 COVER/wwe smackdown vs raw 2010 ps2 cover image.jpg",
   "PS2 COVER/wwe smackdown vs raw 2011 ps2 cover image.jpg",
   "PS2 COVER/X- men Origins Woverine.jpg",
