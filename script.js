@@ -144,7 +144,7 @@ const imagePaths = [
   "PS2 COVER/Mortal kombat deception.jpg",
   "PS2 COVER/mortal kombat shaolin monks ps2 cover image.jpg",
   "PS2 COVER/mr bean.jpg",
-  "PS2 COVER/nfs carbon ps2 cover image.jpg",
+
   "PS2 COVER/nfs hot pursuit 2 ps2 cover image.jpeg",
   "PS2 COVER/nfs prostreet ps2 cover image.jpeg",
   "PS2 COVER/nfs undercover ps2 cover image.jpeg",
