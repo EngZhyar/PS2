@@ -83,7 +83,6 @@ const imagePaths = [
   "PS2 COVER/ford racing 2 ps2 cover image.jpeg",
   "PS2 COVER/ford racing 3 ps2 cover image.jpg",
   "PS2 COVER/formula 1 06 ps2 cover image.jpeg",
-  "PS2 COVER/freedom fighters ps2 cover image.jpg",
   "PS2 COVER/full spectrum ps2 cover image.jpeg",
   "PS2 COVER/ghost rider ps2 cover image.jpeg",
   "PS2 COVER/gladiator sword of veneance ps2 cover image.jpeg",
