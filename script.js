@@ -148,7 +148,6 @@ const imagePaths = [
   "PS2 COVER/nfs hot pursuit 2 ps2 cover image.jpeg",
   "PS2 COVER/nfs prostreet ps2 cover image.jpeg",
   "PS2 COVER/nfs undercover ps2 cover image.jpeg",
-  "PS2 COVER/nfs underground 2 ps2 cover image.jpg",
   "PS2 COVER/Nicktoons attack of the toybots.png",
   "PS2 COVER/Nicktoons battle for volcano island.jpg",
   "PS2 COVER/onimusha dawn of dream ps2 cover image.jpg",
