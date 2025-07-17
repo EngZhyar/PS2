@@ -295,14 +295,44 @@ function displayImages() {
   imagesToShow.forEach((imagePath) => {
     const gameItem = document.createElement("div");
     gameItem.classList.add("game-item");
-    gameItem.innerHTML = `<img src="${imagePath}" alt="Game Cover">`;
+    
+    // Create image element
+    const img = document.createElement("img");
+    img.src = imagePath;
+    img.alt = "Game Cover";
+    
+    // Create download button
+    const downloadBtn = document.createElement("button");
+    downloadBtn.classList.add("download-btn");
+    downloadBtn.textContent = "Download ⬇️";
+    
+    // Add click event to download the image
+    downloadBtn.onclick = function() {
+      const link = document.createElement("a");
+      link.href = imagePath;
+      // Extract filename from path
+      const filename = imagePath.split('/').pop();
+      link.download = filename;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    };
+    
+    // Create container for image and button
+    const container = document.createElement("div");
+    container.style.display = "flex";
+    container.style.flexDirection = "column";
+    container.style.alignItems = "center";
+    container.appendChild(img);
+    container.appendChild(downloadBtn);
+    
+    gameItem.appendChild(container);
     gameGrid.appendChild(gameItem);
   });
 
   // Update page number
   document.getElementById("page-number").textContent = `${currentPage}`;
 }
-
 // Function to handle page change (next/previous)
 function changePage(direction) {
   const totalPages = Math.ceil(imagePaths.length / imagesPerPage);
