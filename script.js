@@ -196,7 +196,6 @@ const imagePaths = [
   "PS2 COVER/shark tale ps2 cover image.jpg",
   "PS2 COVER/shellshock nam 67 ps2 cover image.jpeg",
   "PS2 COVER/Shrek 2.jpg",
-  "PS2 COVER/Shrek carnival craze party games.jpg",
   "PS2 COVER/Shrek smash n.jpg",
   "PS2 COVER/Shrek super slam.jpg",
   "PS2 COVER/Shrek the third.jpg",
