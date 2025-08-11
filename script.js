@@ -90,8 +90,6 @@ const imagePaths = [
   "PS2 COVER/gladiator sword of veneance ps2 cover image.jpeg",
   "PS2 COVER/god of war ps2 cover image.jpeg",
   "PS2 COVER/god of war 2.jpg",
-
-  "PS2 COVER/Godhand.jpg",
   "PS2 COVER/Goldeneye Rogue agent.jpg",
   "PS2 COVER/gran turismo 4 ps2 cover image.jpeg",
   "PS2 COVER/gt 3 ps2 cover image.jpg",
