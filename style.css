@@ -22,14 +22,6 @@ justify-content: center;
 }
 
 
-/* Game grid styling */
-.game-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 4 items per row */
-    gap: 20px; /* Space between the items */
-    max-width: 1200px;
-    width: 100%;
-}
 
 /* Game item styling */
 .game-item {
@@ -97,4 +89,37 @@ button:hover {
 #page-number {
     font-size: 18px;
     color: black;
+}
+
+
+/* Game grid styling */
+.game-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 4 items per row */
+    gap: 20px; /* Space between the items */
+    max-width: 1200px;
+    width:100%;
+}
+
+
+
+@media (min-width: 1200px) {
+  .game-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr); /* 2 items per row */
+    gap: 20px; /* Space between the items */
+    max-width: 1200px;
+    width: 6000px;
+  }
+}
+
+
+@media (min-width: 801px) and (max-width: 1199px) {
+  .game-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 items per row */
+    gap: 20px; /* Space between the items */
+    max-width: 1200px;
+    width: 600px;
+  }
 }
